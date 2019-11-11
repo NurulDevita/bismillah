@@ -1,0 +1,8 @@
+1. Buat new repo
+2. Copy link repo
+3. git clone empty repo
+4. copy/buat file project di dalam folder repo
+5. git status
+6. git config --global user.email fikriaksan17@gmail.com
+7. git config --global user.name fikriaksan
+8. git push origin master
